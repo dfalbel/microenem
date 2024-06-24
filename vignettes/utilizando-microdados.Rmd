@@ -1,0 +1,19 @@
+---
+title: "utilizando-microdados"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{utilizando-microdados}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(microenem)
+```
